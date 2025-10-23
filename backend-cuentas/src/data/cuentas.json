@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "68f863f0196d2969e219f27a",
+    "isActive": true,
+    "picture": "https://files.consumerfinance.gov/f/images/protected-money_1400x642_ai_lw_io_original.png",
+    "balance": 25223,
+    "client": "Katie Woodard",
+    "gender": "female"
+  },
+  { "_id": "68f863f0196d2969e219f27b", "isActive": false, "picture": "https://example.com/p2.png", "balance": 1020, "client": "Robert Miles", "gender": "male" },
+  { "_id": "68f863f0196d2969e219f27c", "isActive": true, "picture": "https://example.com/p3.png", "balance": 8900, "client": "Ana López", "gender": "female" },
+  { "_id": "68f863f0196d2969e219f27d", "isActive": true, "picture": "https://example.com/p4.png", "balance": 120, "client": "Joel Rivera", "gender": "male" },
+  { "_id": "68f863f0196d2969e219f27e", "isActive": false, "picture": "https://example.com/p5.png", "balance": 5432, "client": "María Pérez", "gender": "female" },
+  { "_id": "68f863f0196d2969e219f27f", "isActive": true, "picture": "https://example.com/p6.png", "balance": 777, "client": "Jorge Gómez", "gender": "male" },
+  { "_id": "68f863f0196d2969e219f280", "isActive": true, "picture": "https://example.com/p7.png", "balance": 35000, "client": "Lucía Ramos", "gender": "female" }
+]
